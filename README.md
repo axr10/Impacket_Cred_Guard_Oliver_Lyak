@@ -1,3 +1,4 @@
+https://research.ifcr.dk/pass-the-challenge-defeating-windows-defender-credential-guard-31a892eee22
 Impacket
 ========
 
